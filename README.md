@@ -30,7 +30,7 @@ The objective of this assignment is to:
 ├── index.html
 ├── style.css
 ├── script.js
-├── image.png
+├── me.jpeg
 └── README.md
 ```
 
@@ -43,7 +43,7 @@ The objective of this assignment is to:
 * Created `index.html` for structure
 * Used `style.css` for styling
 * Added `script.js` for interactivity
-* Included an image (`image.png`) for visual enhancement
+* Included an image (`me.jpeg`) 
 
 ---
 
@@ -61,7 +61,7 @@ The objective of this assignment is to:
   * `index.html`
   * `style.css`
   * `script.js`
-  * `image.png`
+  * `me.jpeg`
 
 ---
 
@@ -99,20 +99,8 @@ The objective of this assignment is to:
 
 ## 🌍 Live Website
 
-🔗 http://your-bucket-name.s3-website-<region>.amazonaws.com
+🔗 http://aws-assignment-1-2026.s3-website.ap-south-1.amazonaws.com
 
-*(Replace with your actual S3 website URL)*
-
----
-
-## 📸 Screenshots
-
-Include screenshots of:
-
-* S3 bucket creation
-* File upload section
-* Static website hosting settings
-* Final website output in browser
 
 ---
 
@@ -132,4 +120,4 @@ The static website is successfully deployed and accessible publicly through an S
 
 ## ✍️ Author
 
-Pranav
+Pranav Rai
